@@ -79,3 +79,5 @@ Once the payment transaction is committed in blockchain will be redirected to th
 4. Withdraw funds from the payments contract to the owner account. http://localhost:8080/#/payments  
 
 ![Withdraw](_dev/withdraw.png)
+
+To Be continue...
